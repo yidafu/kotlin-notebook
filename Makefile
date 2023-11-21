@@ -1,7 +1,7 @@
 .PHONY: help build run test test-env
 
 # Docker image name and tag
-DEFAULT_IMAGE_NAME:=knonm/kotlin-notebook
+DEFAULT_IMAGE_NAME:=yidafu90/jupyter
 DEFAULT_TAG?=dev
 # Shell that make should use
 SHELL:=bash
